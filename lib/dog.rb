@@ -12,5 +12,13 @@ def all
   @@all
 end
 
+def clear_all
+
+end
+
+def print_all
+
+end
+
 
 end
