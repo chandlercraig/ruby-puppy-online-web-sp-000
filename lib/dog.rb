@@ -18,7 +18,7 @@ def self.clear_all
 end
 
 def self.print_all
-  @@all.each {|doggy| puts name=}
+  @@all.each {|doggy| puts @name=}
 end
 
 
